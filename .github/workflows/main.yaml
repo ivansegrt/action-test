@@ -9,4 +9,4 @@ jobs:
       - id: foo
         uses: ivansegrt/hello-world-composite-action@v1
         with:
-          who-to-greet: 'this is a message running in my first action'
+          who-to-greet: 'this is a message running in my first action after debug'
